@@ -1,0 +1,2 @@
+# long_upper_shadow_screener
+放量长上影线前50的币种
